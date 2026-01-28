@@ -16,10 +16,12 @@ After each sprint, release, or important milestone. Also after incidents.
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Facilitated by Scrum Master or Project Manager to ensure psychological safety
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Scrum Master tracks completion of action items and reports on progress
 
 ## Example Action Item Template
 - Title:
